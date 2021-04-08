@@ -1,4 +1,4 @@
-# Blackjack
+## Blackjack
 
 Blackjack (also known as 21) is a multiplayer card game, with fairly simple rules.
 
